@@ -1,0 +1,30 @@
+<svg width="48" height="49" viewBox="0 0 48 49" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M7.215 15.921c3.984 0 7.215-3.216 7.215-7.184S11.2 1.553 7.215 1.553 0 4.769 0 8.737s3.23 7.184 7.215 7.184z" fill="url(#a)"/>
+    <path d="M40.782 47.553c3.985 0 7.215-3.216 7.215-7.184s-3.23-7.184-7.215-7.184c-3.984 0-7.215 3.216-7.215 7.184s3.23 7.184 7.215 7.184z" fill="url(#b)"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="m20.973 5.809-8.227 41.744H0L20.973 5.809z" fill="url(#c)"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="m35.059 1.553-8.433 42.52a6.781 6.781 0 0 1-5.928 3.48h-7.954L20.97 5.808l.265-.527a6.78 6.78 0 0 1 6.06-3.728h7.764z" fill="url(#d)"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="m48 1.553-21.37 42.52c-.05.102 8.433-42.52 8.433-42.52H48z" fill="url(#e)"/>
+    <defs>
+        <radialGradient id="a" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-16.1236 0 0 -16.0555 14.43 8.737)">
+            <stop stop-color="#6850A1"/>
+            <stop offset="1" stop-color="#AFAAD4"/>
+        </radialGradient>
+        <radialGradient id="b" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-14.4294 0 0 -14.3685 47.997 40.369)">
+            <stop stop-color="#6850A1"/>
+            <stop offset="1" stop-color="#AFAAD4"/>
+        </radialGradient>
+        <radialGradient id="c" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="rotate(-168.943 10.768 1.89) scale(42.714 42.5469)">
+            <stop stop-color="#6850A1"/>
+            <stop offset=".47" stop-color="#7B69AF"/>
+            <stop offset="1" stop-color="#AFAAD4"/>
+        </radialGradient>
+        <radialGradient id="d" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-48.55084 -9.58427 9.54683 -48.3612 35.059 1.553)">
+            <stop stop-color="#6850A1"/>
+            <stop offset="1" stop-color="#AFAAD4"/>
+        </radialGradient>
+        <radialGradient id="e" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-19.66315 -9.7994 9.77451 -19.6132 48 1.553)">
+            <stop stop-color="#6850A1"/>
+            <stop offset="1" stop-color="#AFAAD4"/>
+        </radialGradient>
+    </defs>
+</svg>

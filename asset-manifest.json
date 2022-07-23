@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "https://cdn.jsdelivr.net/gh/parscoinpay/fronted@master/static/css/main.4666804b.css",
+    "main.js": "https://cdn.jsdelivr.net/gh/parscoinpay/fronted@master/static/js/main.d74acf31.js",
+    "static/js/787.636f6c62.chunk.js": "https://cdn.jsdelivr.net/gh/parscoinpay/fronted@master/static/js/787.636f6c62.chunk.js",
+    "static/media/cart.png": "https://cdn.jsdelivr.net/gh/parscoinpay/fronted@master/static/media/cart.e604d1342eccb146460f.png",
+    "static/media/bg.png": "https://cdn.jsdelivr.net/gh/parscoinpay/fronted@master/static/media/bg.cd659ec6fcd0e78059b7.png",
+    "static/media/cart-res.png": "https://cdn.jsdelivr.net/gh/parscoinpay/fronted@master/static/media/cart-res.65ebf5b9d2520d2c7865.png",
+    "static/media/Yekan_Bakh_EN_01_Hairline.ttf": "https://cdn.jsdelivr.net/gh/parscoinpay/fronted@master/static/media/Yekan_Bakh_EN_01_Hairline.38b70da612c75aad1470.ttf",
+    "static/media/Yekan_Bakh_EN_02_Thin.ttf": "https://cdn.jsdelivr.net/gh/parscoinpay/fronted@master/static/media/Yekan_Bakh_EN_02_Thin.554bdebd64a020b2db53.ttf",
+    "static/media/Yekan_Bakh_EN_03_Light.ttf": "https://cdn.jsdelivr.net/gh/parscoinpay/fronted@master/static/media/Yekan_Bakh_EN_03_Light.90636ec15413a5941627.ttf",
+    "static/media/Yekan_Bakh_EN_04_Regular.ttf": "https://cdn.jsdelivr.net/gh/parscoinpay/fronted@master/static/media/Yekan_Bakh_EN_04_Regular.355ef063cfabd0456861.ttf",
+    "static/media/Yekan_Bakh_EN_05_Medium.ttf": "https://cdn.jsdelivr.net/gh/parscoinpay/fronted@master/static/media/Yekan_Bakh_EN_05_Medium.87941427127060e8d0f8.ttf",
+    "static/media/Yekan_Bakh_EN_08_Fat.ttf": "https://cdn.jsdelivr.net/gh/parscoinpay/fronted@master/static/media/Yekan_Bakh_EN_08_Fat.8c0a9209e8f42a2a0836.ttf",
+    "static/media/Yekan_Bakh_EN_07_Heavy.ttf": "https://cdn.jsdelivr.net/gh/parscoinpay/fronted@master/static/media/Yekan_Bakh_EN_07_Heavy.bc8f6c30ef12bc998e6e.ttf",
+    "static/media/Yekan_Bakh_EN_06_Bold.ttf": "https://cdn.jsdelivr.net/gh/parscoinpay/fronted@master/static/media/Yekan_Bakh_EN_06_Bold.0b272987f5194b4c3cb1.ttf",
+    "static/media/IRANSansWeb_Light.ttf": "https://cdn.jsdelivr.net/gh/parscoinpay/fronted@master/static/media/IRANSansWeb_Light.3e99a4d54d76ef687a4f.ttf",
+    "static/media/IRANSansWeb.ttf": "https://cdn.jsdelivr.net/gh/parscoinpay/fronted@master/static/media/IRANSansWeb.cfda181b49ac22fb9f4a.ttf",
+    "static/media/IRANSansWeb_Medium.ttf": "https://cdn.jsdelivr.net/gh/parscoinpay/fronted@master/static/media/IRANSansWeb_Medium.ba77cad06e41efd16bf0.ttf",
+    "static/media/IRANSansWeb_Bold.ttf": "https://cdn.jsdelivr.net/gh/parscoinpay/fronted@master/static/media/IRANSansWeb_Bold.40ce5860f4b35793bc06.ttf",
+    "static/media/iranYekanWeb.ttf": "https://cdn.jsdelivr.net/gh/parscoinpay/fronted@master/static/media/iranYekanWeb.2ba26afbb98d21668bd3.ttf",
+    "static/media/IRANSansWeb_UltraLight.ttf": "https://cdn.jsdelivr.net/gh/parscoinpay/fronted@master/static/media/IRANSansWeb_UltraLight.debced95498e985cf493.ttf",
+    "index.html": "https://cdn.jsdelivr.net/gh/parscoinpay/fronted@master/index.html",
+    "static/media/info-pay-bg.svg": "https://cdn.jsdelivr.net/gh/parscoinpay/fronted@master/static/media/info-pay-bg.04c653e799390adfb4a5.svg",
+    "static/media/info-pay-bg-res.svg": "https://cdn.jsdelivr.net/gh/parscoinpay/fronted@master/static/media/info-pay-bg-res.e563a2f3778af23d3166.svg",
+    "main.4666804b.css.map": "https://cdn.jsdelivr.net/gh/parscoinpay/fronted@master/static/css/main.4666804b.css.map",
+    "main.d74acf31.js.map": "https://cdn.jsdelivr.net/gh/parscoinpay/fronted@master/static/js/main.d74acf31.js.map",
+    "787.636f6c62.chunk.js.map": "https://cdn.jsdelivr.net/gh/parscoinpay/fronted@master/static/js/787.636f6c62.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4666804b.css",
+    "static/js/main.d74acf31.js"
+  ]
+}
